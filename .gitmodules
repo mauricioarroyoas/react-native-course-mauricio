@@ -1,0 +1,3 @@
+[submodule "academia"]
+	path = academia
+	url = https://github.com/mauricioarrequena/mobile-academia.git
